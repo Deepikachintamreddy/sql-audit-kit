@@ -1,0 +1,13 @@
+{
+  "name": "sql-audit-kit",
+  "displayName": "SQL Audit Kit",
+  "version": "1.0.0",
+  "description": "Audits SQL queries for performance bottlenecks, index gaps, logic bugs, and SQL injection risks with actionable fixes.",
+  "author": {
+    "name": "Deepika Chintamreddy",
+    "url": "https://github.com/Deepikachintamreddy"
+  },
+  "repository": "https://github.com/Deepikachintamreddy/sql-audit-kit",
+  "license": "MIT",
+  "keywords": ["sql", "database", "query-optimization", "code-review"]
+}
